@@ -1,0 +1,17 @@
+.classpath
+.project
+.settings/
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea
+*.iml
+node
+node_modules
+npm_cache
+target
+*.log
+META-INF/
+output/
+.externalToolBuilders/
+.orig
+overlays
