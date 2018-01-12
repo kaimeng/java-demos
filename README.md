@@ -1,2 +1,2 @@
-# javatest
-学习Java的测试库
+# java-demos
+学习Java的示例库

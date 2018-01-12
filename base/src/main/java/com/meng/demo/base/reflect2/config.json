@@ -1,0 +1,12 @@
+{
+  "objects": [
+    {
+      "id": "id1",
+      "class": "com.fq.domain.User"
+    },
+    {
+      "id": "id2",
+      "class": "com.fq.domain.Bean"
+    }
+  ]
+}
