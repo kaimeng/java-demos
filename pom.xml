@@ -15,6 +15,7 @@
         <module>kafka</module>
         <module>base</module>
         <module>guava</module>
+        <module>netty</module>
     </modules>
 
 
