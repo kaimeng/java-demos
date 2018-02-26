@@ -1,4 +1,4 @@
-package com.meng.demo.netty;
+package com.meng.demo.netty.echo;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;
@@ -29,7 +29,6 @@ public class EchoServer {
                     .childHandler(new ChannelInitializer<SocketChannel>() { // (4)
                         @Override
                         public void initChannel(SocketChannel ch) throws Exception {
-
                             ChannelPipeline p = ch.pipeline();
                             p.addLast(new EchoServerHandler());
                         }

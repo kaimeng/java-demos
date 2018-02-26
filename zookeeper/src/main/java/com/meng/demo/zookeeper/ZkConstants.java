@@ -5,7 +5,7 @@ public class ZkConstants {
     /**
      * zookeeper地址
      */
-    public static final String CONNECT_ADDR = "spmaster.bigdata.ly:22222,spslave1.bigdata.ly:22222,spslave2.bigdata.ly:22222,spslave3.bigdata.ly:22222,spslave4.bigdata.ly:22222";
+    public static final String CONNECT_ADDR = "10.101.160.122:12181,10.101.160.205:12181,10.101.160.213:12181";
 
     /**
      * session超时时间

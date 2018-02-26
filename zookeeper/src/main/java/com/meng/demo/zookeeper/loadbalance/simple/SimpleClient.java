@@ -1,4 +1,4 @@
-package com.meng.demo.zookeeper.loadbalance;
+package com.meng.demo.zookeeper.loadbalance.simple;
 
 import java.io.BufferedReader;
 import java.io.IOException;

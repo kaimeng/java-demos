@@ -1,4 +1,4 @@
-package com.meng.demo.netty;
+package com.meng.demo.netty.echo;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;

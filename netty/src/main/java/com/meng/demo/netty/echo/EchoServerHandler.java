@@ -1,4 +1,4 @@
-package com.meng.demo.netty;
+package com.meng.demo.netty.echo;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelHandlerContext;
